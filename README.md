@@ -29,6 +29,9 @@ specifically for the COMP 372 Programming Languages course.
 Make sure that you update the `scalaVersion` if you are going to use this for a
 different scala version...
 
+Also, make sure you execute the script within your new project directory. This
+builds the sbt project BELOW the current directory. 
+
 ### Contribution
 
 It would be awesome to have some people contribute to this to make it a more
@@ -38,4 +41,4 @@ I.e. adding useful folders, dependencies or updating the process to name the
 project.
 
 The only thing I would like people to refrain from changing on the remote repo
-is the scalaVersion, as this is subjective to the user and thus a redundant update. 
+is the scalaVersion, as this is subjective to the user and thus a redundant update.
